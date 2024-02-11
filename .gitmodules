@@ -1,3 +1,4 @@
 [submodule "pages"]
 	path = pages
 	url = https://github.com/machien-io/machien-io.github.io
+	update = rebase
